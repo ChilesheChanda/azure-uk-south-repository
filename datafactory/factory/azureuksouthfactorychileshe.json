@@ -1,0 +1,15 @@
+{
+	"name": "azureuksouthfactorychileshe",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a44648e7-193f-40e7-8060-83dfb7bec111",
+		"tenantId": "6bf2200b-2130-468f-83c9-152b8729648e"
+	}
+}
