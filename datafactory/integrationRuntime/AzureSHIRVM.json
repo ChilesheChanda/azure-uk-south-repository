@@ -1,0 +1,6 @@
+{
+	"name": "AzureSHIRVM",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
